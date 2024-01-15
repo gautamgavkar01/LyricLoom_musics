@@ -21,79 +21,79 @@ let songs = [
     {
         songName: "_Ram Siya Ram_192",
         filePath: "14.mp3",
-        coverPath: "image/1.jpg"
+        coverPath: "1.jpg"
     },
 
     {
         songName: "Not Ramaiya Vastavaiya",
         filePath: "2.mp3",
-        coverPath: "image/2.jpg"
+        coverPath: "2.jpg"
     },
 
     {
         songName: "Pehle Bhi Main_192",
         filePath: "3.mp3",
-        coverPath: "image/3.jpg"
+        coverPath: "3.jpg"
     },
 
     {
         songName: "Abrars Entry - Jamal Kudu",
         filePath: "4.mp3",
-        coverPath: "image/4.jpg"
+        coverPath: "4.jpg"
     },
 
     {
         songName: "Ranvijays Entry Medley",
         filePath: "5.mp3",
-        coverPath: "image/5.jpg"
+        coverPath: "5.jpg"
     },
 
     {
         songName: "Tere Pyar Mein",
         filePath: "6.mp3",
-        coverPath: "image/6.jpg"
+        coverPath: "6.jpg"
     },
 
     {
         songName: "Baarish Ke Aane Se",
         filePath: "7.mp3",
-        coverPath: "image/7.jpg"
+        coverPath: "7.jpg"
     },
 
     {
         songName: "_Mann Jogiya",
         filePath: "8.mp3",
-        coverPath: "image/8.jpg"
+        coverPath: "8.jpg"
     },
 
     {
         songName: "Tu Hai To Mujhe Phir Aur Kya Chahiye",
         filePath: "9.mp3",
-        coverPath: "image/9.jpg"
+        coverPath: "9.jpg"
     },
 
     {
         songName: "Tere Hawaale",
         filePath: "10.mp3",
-        coverPath: "image/10.jpg"
+        coverPath: "10.jpg"
     },
 
     {
         songName: "All We Need Is Love",
         filePath: "11.mp3",
-        coverPath: "image/11.jpg"
+        coverPath: "11.jpg"
     },
 
     {
         songName: "Maan Meri Jaan_192",
         filePath: "12.mp3",
-        coverPath: "image/12.jpg"
+        coverPath: "12.jpg"
     },
 
     {
         songName: "O Mahi O Mahi_192",
         filePath: "13.mp3",
-        coverPath: "image/13.jpg"
+        coverPath: "13.jpg"
     }
 ]
 
